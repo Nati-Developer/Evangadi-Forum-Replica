@@ -1,0 +1,50 @@
+.home-container {
+	min-width: 500px;
+    min-height: 65vh;
+}
+.ask_button {
+	width: 200px;
+	height: 41px;
+	background-color: #516cf0;
+	color: white;
+	border: none;
+	border-radius: 4px;
+	text-align: center;
+	border: 1px solid transparent;
+	font-size: 1rem;
+}
+.YourQuestion {
+	width: 200px;
+	height: 41px;
+	background-color: yellowgreen;
+	color: white;
+	border: none;
+	border-radius: 4px;
+	text-align: center;
+	border: 1px solid transparent;
+	font-size: 1rem;
+}
+.ask_button:hover {
+	background-color: #ff8500;
+}
+.YourQuestion:hover {
+background-color: #ff0000;
+}
+.ask_button:active {
+	border: 3px solid #516cf0;
+}
+.YourQuestion:active {
+	border: 3px solid #516cf0;
+}
+hr {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border: 0;
+    border-top: 1px solid rgba(0,0,0,.5);
+}
+.searchTitle:hover{
+	border:solid 1px #516CF0;
+}
+.searchTitle{
+	height: 40px;
+}
